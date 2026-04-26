@@ -172,6 +172,6 @@ CREATE TABLE account_balances (
 - You can test the same method but for the secured version of the pages, by using their invulnerable counter parts. For example: localhost/demo/transact.php?bId=(INTEGER)&amt=(INTEGER)
 - This would not work as the page is protected by a CSRF token
 
-7. Youtube Video: https://youtu.be/MtBQqy6bb20
+7. Youtube Video Demo: https://youtu.be/MtBQqy6bb20
 
 
